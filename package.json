@@ -1,0 +1,28 @@
+{
+  "name": "runns",
+  "version": "1.0.0",
+  "description": "Runns helps run package.json scripts",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malstoun/runns.git"
+  },
+  "keywords": [
+    "nodejs",
+    "scripts",
+    "run"
+  ],
+  "author": "Andrey Ratserov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malstoun/runns/issues"
+  },
+  "homepage": "https://github.com/malstoun/runns#readme"
+}
