@@ -1,6 +1,6 @@
 {
   "name": "runns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runns helps run package.json scripts",
   "main": "index.js",
   "directories": {
